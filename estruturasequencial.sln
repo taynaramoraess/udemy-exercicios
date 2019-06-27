@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estruturasequencial1", "estruturasequencial\estruturasequencial1.csproj", "{ECF41788-1641-4936-9F5E-89C2F5AE0FC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF41788-1641-4936-9F5E-89C2F5AE0FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF41788-1641-4936-9F5E-89C2F5AE0FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF41788-1641-4936-9F5E-89C2F5AE0FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF41788-1641-4936-9F5E-89C2F5AE0FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {607A0AFA-3113-469A-8048-292F8B92FAA9}
+	EndGlobalSection
+EndGlobal
