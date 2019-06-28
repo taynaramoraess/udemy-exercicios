@@ -30,9 +30,9 @@ namespace Produto
                 + ", $ "
                 + Preco.ToString("F2", CultureInfo.InvariantCulture)
                 + ", "
-                + Quantidade 
+                + Quantidade
                 + "unidades, Total: $ "
                 + ValorEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
-        }          
+        }
     }
 }
